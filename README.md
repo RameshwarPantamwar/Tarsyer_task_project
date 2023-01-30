@@ -6,6 +6,12 @@
 - Save the cropped image as `Task_1_cropped.jpg`.
 - Also save an image (`Task_1_insights.jpg`) - in this draw that rectangular box and also mention its top left and bottom right point.
 
+2) Morphological Operation
+
+- Perform any three morphological operations as per your choice. Please submit the original image + output image of each morphological operation.
+- Dilation
+- Erosion
+- Opening
 
 3) Thresholding
 
